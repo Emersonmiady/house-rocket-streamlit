@@ -3,7 +3,7 @@ House Rocket dashboard using Streamlit, from Python ZERO ao DS course.
 
 Project url: https://house-rocket-analytics-app.herokuapp.com/
 
-Note: That site isn't working so fast. If you want to see the dashboard, please, be pacient. Sorry about that, and thanks for visiting the project! :)
+**Note:** That site isn't working so fast. If you want to see the dashboard, please, be pacient. Sorry about that, and thanks for visiting the project! :)
 
 ## Business Problem
 - **Company:** House Rocket;
