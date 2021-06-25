@@ -296,8 +296,7 @@ def attributes_distribution(data):
 
 if __name__ == '__main__':
     # Data extraction
-    path = 'C:/Users/Emerson/Documents/Jupyter Projects/pthon_do_zero_ao_ds/'+\
-           'datasets/kc_house_data.csv'
+    path = 'kc_house_data.csv'
 
     url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
 
