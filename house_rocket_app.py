@@ -176,8 +176,8 @@ def commercial_distribution(data):
     st.sidebar.subheader('Select Max Year')
 
     # Filters
-    min_year_built = data['yr_built'].min()
-    max_year_built = data['yr_built'].max()
+    min_year_built = int(data['yr_built'].min())
+    max_year_built = int(data['yr_built'].max())
 
     f_yr_built = st.sidebar.slider('Year Built', min_year_built, max_year_built, max_year_built)
 
