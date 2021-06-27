@@ -12,8 +12,6 @@ Project url: https://house-rocket-analytics-app.herokuapp.com/
 
 - **Challenge:** Find good deals within the available portfolio, that is, find homes with a low price, in a great location and that have a great resale potential for a higher price.
 
-The proposed challenge can be found [here](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/). 
-
 ## CEO Requests
 **I would like to arrive at my desk in the morning and have a unique place where I can look at House Rocket's portfolio. In this portfolio, I have interest:**
 
